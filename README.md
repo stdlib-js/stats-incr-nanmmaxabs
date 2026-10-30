@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> Compute a moving maximum absolute value incrementally ignoring `NaN` values.
+> Compute a moving maximum absolute value incrementally, ignoring `NaN` values.
 
 <section class="installation">
 
